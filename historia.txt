@@ -1,10 +1,10 @@
 Esta es mi historia
 
-Tengo 37 años y nací en Bogotá, Colombia.
+Tengo xx años y nací en Bogotá, Colombia.
 
 Estoy estudiando programacion, más especificamente python
 
-Vivo en Toberín
+Vivo en alguna parte de la capital
 
 Hoy hablaremos de mi historia.
 
